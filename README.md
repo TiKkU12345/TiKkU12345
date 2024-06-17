@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TiKkU12345 (Arunav Kumar)
-- 👀 I’m interested in ..Web Development
+- 👋 Hi, I’m @TiKkU12345 (Arunav Kumar) 
+- 👀 I’m interested in ..Web Development 
 - 🌱 I’m currently learning ...HTML CSS & JAVASCRIPT 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...by instagram mentioned in my profile .
+- 📫 How to reach me ...by email(arunav.jsr.0604@gmail.com) 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
