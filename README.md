@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there's 👋
 
 # 💫 About Me:
 <br> Hello! I'm Arunav Kumar, a passionate AI Engineer driven by curiosity, innovation, and a commitment to solving<br> real-world problems through intelligent systems. I specialize in Artificial Intelligence, Machine Learning, and Deep<br> Learning, with hands-on experience in building data-driven models and AI solutions that deliver measurable<br> impact.
