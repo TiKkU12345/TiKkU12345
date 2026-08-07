@@ -1,7 +1,7 @@
 ## Hi there's 👋
 
 # 💫 About Me:
-Hello! I'm Arunav Kumar, a passionate AI Engineer driven by curiosity, innovation, and a commitment to solving<br> real-world problems through intelligent systems. I specialize in Artificial Intelligence, Machine Learning, and Deep<br> Learning, with hands-on experience in building data-driven models and AI solutions that deliver measurable impact.
+AI/ML Engineer with hands-on experience building RAG pipelines, NLP systems, and predictive models. Built a RAG-based document assistant (DocMind) using FAISS and Groq LLaMA-3.3-70B, and a legal-contract analysis pipeline (CUAD) achieving accurate clause extraction across 50 contracts. Also built a resume-screening system reducing manual effort by 50-60% and an RUL prediction model reaching RMSE ~14 cycles on NASA CMAPSS data.
 
 
 ## 🌐 Socials:
