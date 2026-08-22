@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/TiKkU12345">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=RAG+Pipelines+%7C+LLM+Agents+%7C+Predictive+ML;From+prototype+to+production+deployment;Python+%C2%B7+PyTorch+%C2%B7+LangChain+%C2%B7+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=24&duration=2800&pause=900&color=D32F2F&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%83%BB+Konnichiwa+%F0%9F%8C%B8;RAG+Pipelines+%7C+LLM+Agents+%7C+Predictive+ML;Crafting+AI+with+the+precision+of+a+katana" alt="Typing SVG" /> </a>
 </a>
 
 <br/><br/>
