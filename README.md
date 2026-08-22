@@ -1,35 +1,122 @@
-## Hi there's 👋
+<div align="center">
 
-# 💫 About Me:
-AI/ML Engineer with hands-on experience building RAG pipelines, NLP systems, and predictive models. Built a RAG-based document assistant (DocMind) using FAISS and Groq LLaMA-3.3-70B, and a legal-contract analysis pipeline (CUAD) achieving accurate clause extraction across 50 contracts. Also built a resume-screening system reducing manual effort by 50-60% and an RUL prediction model reaching RMSE ~14 cycles on NASA CMAPSS data.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Arunav%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer&descAlignY=55&descSize=22" width="100%"/>
 
+<a href="https://github.com/TiKkU12345">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Building+AI%2FML+systems+that+ship;RAG+Pipelines+%7C+LLM+Agents+%7C+Predictive+ML;Turning+prototypes+into+deployed+products" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunav-kumar-54266528b/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunav11a31.hts21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://arunav-kumar-ai-hglf0zg.gamma.site/)
-
-# 💻 Tech Stack:
-![LLm](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TiKkU12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TiKkU12345&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiKkU12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TiKkU12345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**TiKkU12345/TiKkU12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
 
-Here are some ideas to get you started:
+- 🧠 AI/ML Engineer — I build and **deploy** end-to-end ML/LLM systems, not just notebooks
+- 🎓 BCA Graduate, GD Rungta College of Science & Technology, Bhilai
+- 🔭 Core stack: **Python, LangChain, FastAPI, PyTorch, Sentence Transformers, FAISS, Pinecone, Groq, Claude API, Streamlit**
+- ☁️ Currently exploring **AWS** (EC2, IAM) as a parallel skill area
+- 📫 Reach me at **arunav.jsr.0604@gmail.com**
+- ⚡ Open to relocation / remote AI-ML roles across India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔍 AI Resume Shortlisting System**
+Sentence Transformers + Claude API + FastAPI + Supabase (RLS). Processed 200+ resumes in real college placement rounds.
+[🔗 Live Demo](https://aisystemusingnlp.streamlit.app) · [💻 Code](https://github.com/TiKkU12345/Resume-ai-DB)
+
+</td>
+<td width="50%">
+
+**📚 DocMind — RAG Knowledge Assistant**
+FastAPI + FAISS + Sentence Transformers + Groq LLaMA-3.3-70B. ~0.5s avg query response, tested on legal contracts (CUAD).
+[🔗 Live Demo](https://docmind-app.streamlit.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⛓️ ChainScope AI**
+LLM-powered smart contract auditor — Groq LLaMA-3.3-70B + Blockscout API + Solidity on Mantle Sepolia. Built for Mantle Turing Test Hackathon 2026.
+[🔗 Live Demo](https://chainscope-ai-mantle.vercel.app)
+
+</td>
+<td width="50%">
+
+**⚙️ Predictive Maintenance (RUL Estimator)**
+PyTorch LSTM (RMSE ~14.47 cycles) + XGBoost on NASA CMAPSS FD001 dataset.
+[🔗 Live Demo](https://predictive-maintenance--rul.streamlit.app)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🩺 Medical Domain RAG Chatbot** *(collaborative, ~50% contribution)*
+LangChain + Groq LLaMA-3.3-70B + Pinecone, chunk size 512 / overlap 50, top-5 cosine similarity retrieval.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TiKkU12345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiKkU12345&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiKkU12345&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<sub>⚠️ Snake animation needs a one-time GitHub Action set up in this repo (see note below) — it won't render on its own until that's added.</sub>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="mailto:arunav.jsr.0604@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/TiKkU12345"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+
+</div>
