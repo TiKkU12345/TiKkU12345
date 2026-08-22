@@ -97,20 +97,8 @@ contact: arunav.jsr.0604@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TiKkU12345&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=2575fc&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiKkU12345&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=2575fc&fire=8A2BE2" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiKkU12345&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=2575fc&point=ffffff" width="80%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiKkU12345&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiKkU12345&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=2575fc&point=ffffff" width="49%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TiKkU12345&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
