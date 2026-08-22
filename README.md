@@ -118,7 +118,7 @@ contact: arunav.jsr.0604@gmail.com
 ### 📫 Let's Connect
 
 <a href="mailto:arunav.jsr.0604@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/TiKkU12345"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://arunav-kumar-ai-gjh57ej.gamma.site/"><img src="https://img.shields.io/badge/PortFoilio-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
