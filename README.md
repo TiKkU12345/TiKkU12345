@@ -109,8 +109,6 @@ contact: arunav.jsr.0604@gmail.com
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-<sub>⚠️ Needs a one-time GitHub Action in this repo to actually render/update (platane/snk) — bol de toh workflow file bhi bana deta hoon.</sub>
-
 <br/>
 
 <div align="center">
