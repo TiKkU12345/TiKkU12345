@@ -93,14 +93,6 @@ contact: arunav.jsr.0604@gmail.com
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiKkU12345&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=2575fc&point=ffffff" width="80%"/>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ### 🐍 Contribution Snake
