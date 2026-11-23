@@ -46,7 +46,7 @@ contact: arunav.jsr.0604@gmail.com
 </td>
 <td width="50%" valign="top">
 <h4>📚 DocMind — RAG Knowledge Assistant</h4>
-<p>FastAPI + FAISS + Sentence Transformers + Groq LLaMA-3.3-70B. <b>~0.5s</b> avg query response, tested on CUAD legal contracts.</p>
+<p>FastAPI + FAISS + Sentence Transformers + Llama 3.3 70B (via Groq). <b>~0.5s</b> avg query response (retrieval + generation), benchmarked on CUAD legal contracts.</p>
 <a href="https://docmind-app.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
 </td>
 </tr>
